@@ -18,6 +18,5 @@ status = "an existing"
 if is_new == "no":
     status = "an old "
 
-
 print("Hello " + name + ". You are " + str(age) + " old and seems you are " + status + "patient")
 
